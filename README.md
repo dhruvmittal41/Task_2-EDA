@@ -65,11 +65,9 @@ This project presents a comprehensive Exploratory Data Analysis (EDA) of the fam
 
 ## 📊 Visualizations Used
 
-- Bar plots (Survival vs Sex, Pclass, Embarked)
-- Histograms (Age, Fare)
-- Box plots (Age vs Pclass, Fare vs Pclass)
-- Heatmap of feature correlations
-- Violin plots and pair plots for multivariate analysis
+- Bar plots 
+- Histograms 
+- Box plots
 
 ---
 
@@ -81,7 +79,4 @@ This project presents a comprehensive Exploratory Data Analysis (EDA) of the fam
 - Matplotlib
 - Seaborn
 
----
-
-## 📁 Project Structure
 
